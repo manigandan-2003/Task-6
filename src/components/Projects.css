@@ -1,0 +1,27 @@
+.projects {
+    background-color: #dda0a0;
+    /* Green background color */
+    padding: 20px;
+    text-align: start;
+}
+
+.projects h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.project {
+    margin-top: 20px;
+    background-color: #dcb8b8;
+    padding: 10px;
+}
+
+.project h3 {
+    font-size: 18px;
+    color: #333;
+}
+
+.project p {
+    font-size: 16px;
+    color: #555;
+}
